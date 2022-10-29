@@ -3,13 +3,13 @@ title: Hello World
 tags:
     - 个人网站
 categories:
-     - 分类1
+    - 工具
 date: 2011/11/11
 
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-![](/images/thank.gif)
+![test photo](thank.gif)
 ## Quick Start
 
 ### Create a new post
